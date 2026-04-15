@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-
+    
 ```
 ██████╗  ██╗███╗   ██╗ █████╗ ██████╗ ██╗   ██╗██████╗ ██╗   ██╗███╗   ███╗██████╗ 
 ██╔══██╗███║████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗██║   ██║████╗ ████║██╔══██╗
@@ -8,17 +8,23 @@
 ██╔══██╗ ██║██║╚██╗██║██╔══██║██╔══██╗  ╚██╔╝  ██║  ██║██║   ██║██║╚██╔╝██║██╔═══╝ 
 ██████╔╝ ██║██║ ╚████║██║  ██║██║  ██║   ██║   ██████╔╝╚██████╔╝██║ ╚═╝ ██║██║     
 ╚═════╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     
+Give a man a 0day and he'll pwn for a day. Teach a man to reverse engineer and he'll pwn forever.
 ```
 
 </div>
 
 <div align="center">
 
-```
-[ Cyber Security Researcher • Malware Analyst • Reverse Engineer ]
-```
+<img src=./logo.png hight=250px width=250px></img>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40linux%3A~%23+whoami;Offensive+aka+(%40b1narydump);Malware+Analyst+%7C+Reverse+Engineer;Red+Team+%7C+Pentest+%7C+Programmer)](https://git.io/typing-svg)
+
+
+![](https://img.shields.io/badge/Title-Security%20Analyst-9FEF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ2Ni41IDgzLjdsLTE5Mi04MGMtMTIuNS01LjItMjYuNi01LjItMzkuMSAwbC0xOTIgODBjLTE1LjkgNi42LTI3LjQgMjIuMy0yNy40IDQwLjNjMCAyMDQuMyAxMTcuNiAzMTQuMyAyMjEuNSAzNTYuN2MxMS40IDQuNyAyNC4xIDQuNyAzNS41IDBDMzc4LjQgNDQyLjMgNDk2IDMzMi4zIDQ5NiAxMjhjMC0yMC41LTExLjUtMzguNi0yOS41LTQ0LjN6Ii8+PC9zdmc+&logoColor=white&labelColor=555555)
+
+![Badge](https://img.shields.io/badge/Skills-Pentester-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiAzMkMxNTAgMzIgNjQgMTE4IDY0IDIyNGMwIDY5LjUgMzcuMSAxMzAuMyA5Mi41IDE2NC4xVjQzMmMwIDI2LjUgMjEuNSA0OCA0OCA0OGgxNmMwLTI2LjUgMjEuNS00OCA0OC00OHM0OCAyMS41IDQ4IDQ4aDE2YzI2LjUgMCA0OC0yMS41IDQ4LTQ4di00My45QzQxMC45IDM1NC4zIDQ0OCAyOTMuNSA0NDggMjI0IDQ0OCAxMTggMzYyIDMyIDI1NiAzMnpNMTc2IDI1NmMtMTcuNyAwLTMyLTE0LjMtMzItMzJzMTQuMy0zMiAzMi0zMiAzMiAxNC4zIDMyIDMyLTE0LjMgMzItMzIgMzJ6bTE2MCAwYy0xNy43IDAtMzItMTQuMy0zMi0zMnMxNC4zLTMyIDMyLTMyIDMyIDE0LjMgMzIgMzItMTQuMyAzMi0zMiAzMnoiLz48L3N2Zz4=&logoColor=white&labelColor=555555) ![Badge](https://img.shields.io/badge/Skills-Malware%20Analysis-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiAzMmMxNy43IDAgMzIgMTQuMyAzMiAzMnYzMmMyMC43IDQuMyAzOS42IDEzLjMgNTUuNiAyNS45bDIyLjYtMjIuNmMxMi41LTEyLjUgMzIuOC0xMi41IDQ1LjMgMHMxMi41IDMyLjggMCA0NS4zbC0yMi42IDIyLjZjMTIuNiAxNiAyMS42IDM0LjkgMjUuOSA1NS42aDMyYzE3LjcgMCAzMiAxNC4zIDMyIDMycy0xNC4zIDMyLTMyIDMyaC0zMmMtNC4zIDIwLjctMTMuMyAzOS42LTI1LjkgNTUuNmwyMi42IDIyLjZjMTIuNSAxMi41IDEyLjUgMzIuOCAwIDQ1LjNzLTMyLjggMTIuNS00NS4zIDBsLTIyLjYtMjIuNmMtMTYgMTIuNi0zNC45IDIxLjYtNTUuNiAyNS45djMyYzAgMTcuNy0xNC4zIDMyLTMyIDMycy0zMi0xNC4zLTMyLTMydi0zMmMtMjAuNy00LjMtMzkuNi0xMy4zLTU1LjYtMjUuOWwtMjIuNiAyMi42Yy0xMi41IDEyLjUtMzIuOCAxMi41LTQ1LjMgMHMtMTIuNS0zMi44IDAtNDUuM2wyMi42LTIyLjZjLTEyLjYtMTYtMjEuNi0zNC45LTI1LjktNTUuNkgzMmMtMTcuNyAwLTMyLTE0LjMtMzItMzJzMTQuMy0zMiAzMi0zMmgzMmM0LjMtMjAuNyAxMy4zLTM5LjYgMjUuOS01NS42TDY3LjMgMTQ0LjZjLTEyLjUtMTIuNS0xMi41LTMyLjggMC00NS4zczMyLjgtMTIuNSA0NS4zIDBsMjIuNiAyMi42QzE1MS4yIDEwOS4zIDE3MC4xIDEwMC4zIDE5MC44IDk2VjY0YzAtMTcuNyAxNC4zLTMyIDMyLTMyczMyIDE0LjMgMzIgMzJ2MzJjLjQgMCAuOCAwIDEuMiAweiIvPjwvc3ZnPg==&logoColor=white&labelColor=555555) ![Badge](https://img.shields.io/badge/Skills-Threat%20Analysis-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ2Ni41IDgzLjdsLTE5Mi04MGMtMTIuNS01LjItMjYuNi01LjItMzkuMSAwbC0xOTIgODBjLTE1LjkgNi42LTI3LjQgMjIuMy0yNy40IDQwLjNjMCAyMDQuMyAxMTcuNiAzMTQuMyAyMjEuNSAzNTYuN2MxMS40IDQuNyAyNC4xIDQuNyAzNS41IDBDMzc4LjQgNDQyLjMgNDk2IDMzMi4zIDQ5NiAxMjhjMC0yMC41LTExLjUtMzguNi0yOS41LTQ0LjN6Ii8+PC9zdmc+&logoColor=white&labelColor=555555) 
+
+![Badge](https://img.shields.io/badge/Improving-Web%20App%20Security-FF6A00?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=555555) ![Badge](https://img.shields.io/badge/Improving-Active%20Directory%20Attacks-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB4PSI0OCIgeT0iNDgiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjI3MiIgeT0iNDgiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjQ4IiB5PSIyNzIiIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjI3MiIgeT0iMjcyIiB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white&labelColor=555555) ![Badge](https://img.shields.io/badge/Improving-SOC%20Operations-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ2Ni41IDgzLjdsLTE5Mi04MGMtMTIuNS01LjItMjYuNi01LjItMzkuMSAwbC0xOTIgODBjLTE1LjkgNi42LTI3LjQgMjIuMy0yNy40IDQwLjNjMCAyMDQuMyAxMTcuNiAzMTQuMyAyMjEuNSAzNTYuN2MxMS40IDQuNyAyNC4xIDQuNyAzNS41IDBDMzc4LjQgNDQyLjMgNDk2IDMzMi4zIDQ5NiAxMjhjMC0yMC41LTExLjUtMzguNi0yOS41LTQ0LjN6Ii8+PC9zdmc+&logoColor=white&labelColor=555555)
 
 </div>
 
@@ -29,15 +35,17 @@
 ```bash
 $ cat /etc/b1narydump/profile.txt
 
-[*] Handle     : b1narydump (aka Offensive)
+[*] Handle     : @b1narydump (aka Offensive)
+[*] Certified  : CPTS from HTB | eJPT from INE | CRTA from CWL
 [*] Role       : Cyber Security Researcher | Malware Analyst
 [*] Passion    : Reverse Engineering — 0x1 byte at a time
 [*] Specialty  : Binary analysis, shellcode dissection, threat hunting
 [*] Mode       : Offensive
-[*] Status     : Always in a debugger
+[*] Status     : Always in a debugger, Trying to Break the things, and yeah Actually not chilling
 ```
+<br>
 
-> *"Give a man a 0day and he'll pwn for a day. Teach a man to reverse engineer and he'll pwn forever."*
+<br>
 
 ---
 
@@ -50,7 +58,6 @@ $ cat /etc/b1narydump/profile.txt
 ║  Penetration Testing   ║  ██████████████░░░░░░  70%          ║
 ║  Network Pentesting    ║  ████████████░░░░░░░░  60%          ║
 ║  Web App Pentesting    ║  ███████████░░░░░░░░░  55%          ║
-║  Reverse Engineering   ║  ██████████░░░░░░░░░░  50%          ║
 ║  Reverse Engineering   ║  ██████████░░░░░░░░░░  50%          ║
 ║  Malware Analysis      ║  ███████████░░░░░░░░░  55%          ║
 ║  Exploit Development   ║  ██████░░░░░░░░░░░░░░  35%          ║
