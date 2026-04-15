@@ -17,7 +17,7 @@ Give a man a 0day and he'll pwn for a day. Teach a man to reverse engineer and h
 
 <img src=./logo.png hight=250px width=250px></img>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40linux%3A~%23+whoami;Offensive+aka+(%40b1narydump);Malware+Analyst+%7C+Reverse+Engineer;Red+Team+%7C+Pentest+%7C+Programmer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=ocra&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=root%40linux%3A~%23+whoami;Offensive+aka+(%40b1narydump);Security+Analyst;Red+Teamer+%7C+Pentester+%7C+Programmer;Also+Like:+Malware+Analysis+%7C+RE+%7C+SOC+Operations;...!;)
 
 
 ![](https://img.shields.io/badge/Title-Security%20Analyst-9FEF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ2Ni41IDgzLjdsLTE5Mi04MGMtMTIuNS01LjItMjYuNi01LjItMzkuMSAwbC0xOTIgODBjLTE1LjkgNi42LTI3LjQgMjIuMy0yNy40IDQwLjNjMCAyMDQuMyAxMTcuNiAzMTQuMyAyMjEuNSAzNTYuN2MxMS40IDQuNyAyNC4xIDQuNyAzNS41IDBDMzc4LjQgNDQyLjMgNDk2IDMzMi4zIDQ5NiAxMjhjMC0yMC41LTExLjUtMzguNi0yOS41LTQ0LjN6Ii8+PC9zdmc+&logoColor=white&labelColor=555555) ![Badge](https://img.shields.io/badge/Certifications-CPTS%2C%20INE%2C%20eJPT-800080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTMyMCAzMkwwIDE2MGwzMjAgMTI4IDI2MS43LTEwNC43VjMyMGg1OC4zVjE2MEwzMjAgMzJ6bS0xNjAgMjU2djk2YzAgNTMgNzEuNiA5NiAxNjAgOTZzMTYwLTQzIDE2MC05NnYtOTZsLTE2MCA2NC0xNjAtNjR6Ii8+PC9zdmc+&logoColor=white&labelColor=555555)
@@ -38,10 +38,10 @@ $ cat /etc/b1narydump/profile.txt
 
 [*] Handle     : @b1narydump (aka Offensive)
 [*] Certified  : CPTS from HTB | eJPT from INE | CRTA from CWL
-[*] Role       : Cyber Security Researcher | Malware Analyst
-[*] Passion    : Reverse Engineering — 0x1 byte at a time
+[*] Role       : Cyber Security Researcher
+[*] Passion    : Penetration Testing & Malware Analysis & Threat Intelligence
 [*] Specialty  : Binary analysis, shellcode dissection, threat hunting
-[*] Mode       : Offensive
+[*] Mode       : Offensive (Defensive Sometimes...)
 [*] Status     : Always in a debugger, Trying to Break the things, and yeah Actually not chilling
 ```
 <br>
@@ -82,6 +82,24 @@ $ cat /etc/b1narydump/profile.txt
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-006400?style=for-the-badge&logoColor=white)
+
+![NetExec](https://img.shields.io/badge/NetExec-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiAxMmg0djJoLTR6bTYgMGg0djJoLTR6bTYgMGg0djJoLTR6Ii8+PC9zdmc+&logoColor=white)
+
+![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PC9zdmc+&logoColor=white)
+
+![PE Tools](https://img.shields.io/badge/PE_Tools-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiLz48L3N2Zz4=&logoColor=white)
+
+![CFF Explorer](https://img.shields.io/badge/CFF_Explorer-4682B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMyAxMmgxOHYySDN6Ii8+PC9zdmc+&logoColor=white)
+
+![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMkwyIDIwaDIweiIvPjwvc3ZnPg==&logoColor=white)
+
+![OWASP ZAP](https://img.shields.io/badge/ZAP_Proxy-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+
+![ProcMon](https://img.shields.io/badge/ProcMon-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMmwxMCAyMEgyeiIvPjwvc3ZnPg==&logoColor=white)
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+![Mimikatz](https://img.shields.io/badge/Mimikatz-800000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgM2w5IDlsLTkgOWwtOS05eiIvPjwvc3ZnPg==&logoColor=white)
 
 </div>
 
@@ -194,6 +212,9 @@ class b1narydump:
 
 <div align="center">
 <sub>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=b1narydump&theme=react-dark&bg_color=0D1117&color=4ced2f&line=45fff3&point=ffffff&hide_border=true)
+
 
 ```
 [ EOF ] — b1narydump | hack the planet 🖥️
