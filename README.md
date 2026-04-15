@@ -74,32 +74,37 @@ $ cat /etc/b1narydump/profile.txt
 
 <div align="center">
 
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-4a4a4a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4a4a4a?style=for-the-badge&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logoColor=lime)
 ![Radare2](https://img.shields.io/badge/Radare2-1a1a2e?style=for-the-badge&logoColor=white)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-2B2B2B?style=for-the-badge&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-003366?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=nuclei&logoColor=white)
+![objdump](https://img.shields.io/badge/objdump-5A5A5A?style=for-the-badge&logoColor=white)
+![gdb](https://img.shields.io/badge/gdb-CC0000?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-006400?style=for-the-badge&logoColor=white)
-
-![NetExec](https://img.shields.io/badge/NetExec-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiAxMmg0djJoLTR6bTYgMGg0djJoLTR6bTYgMGg0djJoLTR6Ii8+PC9zdmc+&logoColor=white)
-
-![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PC9zdmc+&logoColor=white)
-
-![PE Tools](https://img.shields.io/badge/PE_Tools-2F4F4F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiLz48L3N2Zz4=&logoColor=white)
-
-![CFF Explorer](https://img.shields.io/badge/CFF_Explorer-4682B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMyAxMmgxOHYySDN6Ii8+PC9zdmc+&logoColor=white)
-
-![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMkwyIDIwaDIweiIvPjwvc3ZnPg==&logoColor=white)
-
+![NetExec](https://img.shields.io/badge/NetExec-000000?style=for-the-badge&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logoColor=white)
+![PE Tools](https://img.shields.io/badge/PE_Tools-2F4F4F?style=for-the-badge&logoColor=white)
+![CFF Explorer](https://img.shields.io/badge/CFF_Explorer-4682B4?style=for-the-badge&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/ZAP_Proxy-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-
-![ProcMon](https://img.shields.io/badge/ProcMon-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMmwxMCAyMEgyeiIvPjwvc3ZnPg==&logoColor=white)
-
+![ProcMon](https://img.shields.io/badge/ProcMon-0078D6?style=for-the-badge&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-![Mimikatz](https://img.shields.io/badge/Mimikatz-800000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgM2w5IDlsLTkgOWwtOS05eiIvPjwvc3ZnPg==&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-800000?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-555555?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge&logoColor=white)
+![Katana](https://img.shields.io/badge/Katana-111111?style=for-the-badge&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-222222?style=for-the-badge&logoColor=white)
+![wfuzz](https://img.shields.io/badge/wfuzz-333333?style=for-the-badge&logoColor=white)
 
 </div>
 
